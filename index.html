@@ -1,34 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GG</title>
-    <link ref="/gg/assets/css/style.css" type="stylesheet">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>GG</title>
+        <link
+        ref="/gg/assets/css/style.css" type="stylesheet">
+        <!-- CSS only -->
+        <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+        <!-- JavaScript Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
     </head>
-  <body>
+    <nav class="navbar bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand">Gains Galore</a>
+            <form class="d-flex" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
+    <body>
+    
+            <div class="d-flex justify-content-center align-items-center my-5">
+                <div class="align-items-center justify-content-center my-5">
+                    <h1>Welcome to the Gains Galore Site</h1>
+                    <br>
+                    <h2>Either scroll or search to find info youre looking for.</h2>
+                </div>
+            </div>
 
-    <!--
-      Place the following <div> element where you want the PDF to be displayed in your website. You can change the size using the width and height attributes.
-    -->
-    <p>testing embeds for guides</p>
-    <div>
-      <object
-        data='https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf'
-        type="application/pdf"
-        width="500"
-        height="678"
-      >
+        <div class="jumbotron">
+            <div class="d-flex justify-content-center align-items-center my-5">
+                <div>
+                    <p class="align-items-center justify-content-center my-5">beginner program test</p>
+                    <object data='/gg/assets/files/beginner_program.pdf' type="application/pdf" width="500" height="678">
 
-        <iframe
-          src='https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf'
-          width="500"
-          height="678"
-        >
-        <p>This browser does not support PDF!</p>
-        </iframe>
-      </object>
-    </div>
-</body>
+                        <iframe src='/gg/assets/files/beginner_program.pdf' width="500" height="678">
+                            <p>This browser does not support PDF!</p>
+                        </iframe>
+                    </object>
+                </div>
+            </div>
+        </div>
+    </body>
 </html>
