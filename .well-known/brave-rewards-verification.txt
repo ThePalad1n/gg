@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: thepalad1n.github.io
-Token: 9b6056493c323b340f4675565ee2a3ba111913b45b2c45ba01bd455030f2f9e6
+Token: 4ca736a7fa0d20b5f202a4bbf7122177f8fb9e543c41a73dca4cd9492de1716d
