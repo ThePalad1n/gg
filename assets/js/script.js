@@ -6,85 +6,85 @@ let galleryarray = [
     {
         id:1,
         name : "bench press",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:2,
         name : "freebar squat",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:3,
         name : "deadlift",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:4,
         name : "dragonfly",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:5,
         name : "hammer curl",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:6,
         name : "conventional curl",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:7,
         name : "incline bench press",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:8,
         name : "lat pulldown",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:9,
         name : "lateral raise dumbbell",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:10,
         name : "high row machine",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:11,
         name : "low row machine",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:12,
         name : "high row cable",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:13,
         name : "low row cable",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
     {
         id:14,
         name : "bent over row",
-        src: "",
+        src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
 
@@ -93,7 +93,7 @@ let galleryarray = [
 showgallery(galleryarray);
 // create function to show card
 function showgallery(curarra){
-   document.getElementById("card").innerText = "hi";
+   document.getElementById("card").innerText = "";
    for(var i=0;i<curarra.length;i++){
        document.getElementById("card").innerHTML += `
         <div class="col-md-4 mt-3" >
