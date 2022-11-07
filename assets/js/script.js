@@ -90,7 +90,7 @@ let galleryarray = [
 
    ];
 
-showgallery(galleryarray);
+
 // create function to show card
 function showgallery(curarra){
    document.getElementById("card").innerText = "";
@@ -133,3 +133,5 @@ document.getElementById("myinput").addEventListener("keyup",function(){
        }
    }
 });
+
+showgallery(galleryarray);
