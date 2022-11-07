@@ -87,7 +87,276 @@ let galleryarray = [
         src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
-
+    {
+        id:15,
+        name : "romainian deadlift barbell RDL",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:16,
+        name : "ez bar curl",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:17,
+        name : "pull up conventional grip",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:18,
+        name : "pull up neutral grip",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:19,
+        name : "rear dealt flys",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:20,
+        name : "face pulls",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:21,
+        name : "tricep extention rope",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:22,
+        name : "tricep push down",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:23,
+        name : "dips",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:24,
+        name : "push up",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:25,
+        name : "incline dumbbell press",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:26,
+        name : "flat dumbbell press",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:27,
+        name : "hack squat",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:28,
+        name : "hack squat banded",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:29,
+        name : "squat press",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:30,
+        name : "zercher squat",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:31,
+        name : "zercher deadlift",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:32,
+        name : "romainian deadlift dumbbell RDL",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:33,
+        name : "landmine press",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:34,
+        name : "landmine row",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:35,
+        name : "overhead press dumbbell",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:36,
+        name : "overhead press barbell seated",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:37,
+        name : "bulgarian split squats",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:38,
+        name : "leg extension machine",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:39,
+        name : "hamstring curl seated machine",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:40,
+        name : "hamstring curl laying machine",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:41,
+        name : "hamstring curl nordic",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:42,
+        name : "rack pull",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:43,
+        name : "shrugs machine",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:44,
+        name : "shrugs dumbbell",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:45,
+        name : "shrugs barbell",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:46,
+        name : "pullover dumbbell",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:47,
+        name : "pullover sword swings",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:48,
+        name : "planche beginner",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:49,
+        name : "planche intermediate",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:50,
+        name : "planche advanced",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:51,
+        name : "clean",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:52,
+        name : "clean and press",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:53,
+        name : "clean and jerk",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:54,
+        name : "clean and snatch",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:55,
+        name : "leg press",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:56,
+        name : "anterior delt raise",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:57,
+        name : "pec fly lower",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:58,
+        name : "pec fly middle",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:59,
+        name : "pec fly upper",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
    ];
 
 
