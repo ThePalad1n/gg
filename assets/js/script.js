@@ -93,7 +93,7 @@ let galleryarray = [
 showgallery(galleryarray);
 // create function to show card
 function showgallery(curarra){
-   document.getElementById("card").innerText = "";
+   document.getElementById("card").innerText = ".";
    for(var i=0;i<curarra.length;i++){
        document.getElementById("card").innerHTML += `
         <div class="col-md-4 mt-3" >
