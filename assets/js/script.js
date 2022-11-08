@@ -357,6 +357,42 @@ let galleryarray = [
         src: "/gg/assets/images/ez.png",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
     },
+    {
+        id:60,
+        name : "copenhagen plank novice",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:61,
+        name : "copenhagen plank beginner",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:62,
+        name : "copenhagen plank intermediate",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:63,
+        name : "copenhagen plank advanced",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:64,
+        name : "copenhagen plank advanced alt",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
+    {
+        id:65,
+        name : "bench press alt",
+        src: "/gg/assets/images/ez.png",
+        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+    },
    ];
 
 
