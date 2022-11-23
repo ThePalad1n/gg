@@ -6,8 +6,8 @@ let galleryarray = [
     {
         id:1,
         name : "bench press",
-        src: "/gg/assets/images/ez.png",
-        desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, delectus."
+        src: "/gg/assets/images/benchPress.jpg",
+        desc : "This is a good compound chest exercise for strength. https://www.youtube.com/shorts/i-gLOirnPaU"
     },
     {
         id:2,
